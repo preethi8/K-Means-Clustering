@@ -9,7 +9,7 @@ Instructions to run code:
 The libraries used were: json, csv
 
 Run the program, kmeans-tweets.py as follows:
->>python kmeans-tweets.py <numberOfClusters> <initialSeedsFile> <TweetsDataFile> <outputFile>
+>>python kmeans-tweets.py<numberOfClusters> <initialSeedsFile> <TweetsDataFile> <outputFile>
 
 For example,
 >>>python kmeans-tweets.py 25 InitialSeeds.txt Tweets.json tweets-k-means-output.txt
